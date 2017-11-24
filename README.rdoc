@@ -202,7 +202,7 @@ Classes (Zoho modules) currently supported are:
     RubyZoho::Crm::Potential
     RubyZoho::Crm::Task
     RubyZoho::Crm::Quote
-    RubyZoho::Crm::User
+    RubyZoho::Crm::CRMUser
 
 == Error Handling
 Errors, i.e. situations where the Zoho API either returns an http code something other than 200
